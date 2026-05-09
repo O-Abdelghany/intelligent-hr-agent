@@ -1,0 +1,18 @@
+Senior Python Developer with AI/ML Experience
+
+We are looking for a Senior Python Developer with hands-on experience in machine learning and AI systems.
+
+Requirements:
+- 5+ years of Python development experience
+- Experience with machine learning frameworks (PyTorch, TensorFlow, scikit-learn)
+- Familiarity with NLP and large language models (LLMs)
+- Experience building and deploying REST APIs (FastAPI or Flask)
+- Strong understanding of data pipelines and ETL processes
+- Experience with vector databases (Pinecone, ChromaDB, Weaviate) is a plus
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Strong problem-solving skills and ability to work in an Agile environment
+
+Nice to have:
+- Experience with LangChain or similar LLM orchestration frameworks
+- Knowledge of containerization (Docker, Kubernetes)
+- Open source contributions
